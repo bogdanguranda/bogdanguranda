@@ -1,16 +1,25 @@
-## Hi there 👋
+# 👋 Hi, I'm Bogdan Guranda!
 
-<!--
-**bogdanguranda/bogdanguranda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Developer from Cluj-Napoca, Romania, passionate about building efficient backend systems and automating the mundane. Fluent in English, with 10+ years in tech. 🚀
 
-Here are some ideas to get you started:
+## 🛠️ Skills
+- **Languages/Frameworks**: Go, Python (PyQt6), TypeScript (React), Java, SQL
+- **Expertise**: REST APIs, micro-services, Docker, Git
+- **Domains**: Finance/markets 📈, insurance, news, e-commerce
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎓 Education
+Bachelor of Computer Science, Babeş-Bolyai University (2013–2016)
+
+## 💼 Experience Highlights
+- Senior Golang Developer at Luxoft (2024–present): Optimizing OCI archives 🐳
+- Golang Developer at Skipr (2022–2023): Sustainable mobility solutions 🌍
+- Various roles in Java/Go at companies like Deutsche Boerse, Mercateo, and Financial Times
+
+## 🌟 Interests
+- Researching & trading US equities, building personal finance apps 💹
+- Coding 2D games with my brother: Check out [PotatoesGames on itch.io](https://potatoesgames.itch.io/) 🎮
+- Big tennis fan and amateur player 🎾
+
+Check my work and read more on: [bogdanguranda.github.io](https://bogdanguranda.github.io)
+
+📫 Reach me: bogdanguranda@gmail.com 
